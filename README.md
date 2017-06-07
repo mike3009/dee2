@@ -50,13 +50,9 @@ h1 {
 }
 }
 
-h1 {
-    font-family: verdana, sans-serif;
-    color: #576d94;
-  background-color: 
-}
 
-p {
+
+p.2 {
     font-size: 18px;
     font-family: garamond, serif;
     color: #4A4943;
